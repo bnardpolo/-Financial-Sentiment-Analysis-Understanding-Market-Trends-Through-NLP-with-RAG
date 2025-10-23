@@ -1,6 +1,4 @@
-Got it, Bernard — here’s a clean, professional rewrite of your project summary with no symbols or icons, and a more natural, human tone:
 
----
 
 # Financial Sentiment Analysis  
 ## Understanding Market Trends Through NLP and Retrieval-Augmented Generation
